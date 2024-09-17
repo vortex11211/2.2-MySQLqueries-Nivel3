@@ -5,8 +5,8 @@ Nos proporcina una serie de consultas que hemos de realizar para cada una de las
 Para realizar las consultas que nos indica el ejercicio cargaremos las bases de datos de manera local en MySQL WorkBench y procederemos a trabajar con ellas según se nos indica.
 
 ## **Requisitos:**
-[Link](https://dev.mysql.com/downloads/mysql/ "MySQL").
-[Link](https://dev.mysql.com/downloads/workbench/ "MySQL Workbench")
+[MySQL](https://dev.mysql.com/downloads/mysql/ "MySQL").
+[MySQL Workbench](https://dev.mysql.com/downloads/workbench/ "MySQL Workbench")
 
 
 Para su instalción puedes seguir este [Link](https://www.youtube.com/watch?v=EmQZt6o6-78 "Tutorial")
