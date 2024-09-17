@@ -1,11 +1,13 @@
 # **2.2-MySQLqueries-Nivell3**
 El ejercicio nos proporciona dos bases de datos, una pertenece a una tienda y otra a una universidad, ambas en formato sql. 
+
 Nos proporcina una serie de consultas que hemos de realizar para cada una de las bases de datos.
 
 Para realizar las consultas que nos indica el ejercicio cargaremos las bases de datos de manera local en MySQL WorkBench y procederemos a trabajar con ellas según se nos indica.
 
 ## **Requisitos:**
-[MySQL](https://dev.mysql.com/downloads/mysql/ "MySQL").
+[MySQL](https://dev.mysql.com/downloads/mysql/ "MySQL")
+
 [MySQL Workbench](https://dev.mysql.com/downloads/workbench/ "MySQL Workbench")
 
 
@@ -13,9 +15,13 @@ Para su instalción puedes seguir este [Link](https://www.youtube.com/watch?v=Em
 
 
 **Descargar los archivos del repositorio**
+
 bases de datos de la tienda `schema_tienda.sql`
+
 consultas asociadas a la tienda `queries_tienda.sql`
+
 bases de datos de la universidad `schema_universidad.sql`
+
 Consultas asociadas a la universidad `queries_universidad.sql`
 
 
